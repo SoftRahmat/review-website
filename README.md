@@ -10,7 +10,7 @@ This project is about react routing and react responsive layout with different c
 
 After clone the project:
 
-### `cd learn-code`
+### `cd review-website-SoftRahmat`
 
 ### `npm install`
 
